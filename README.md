@@ -1,7 +1,8 @@
 # mscHack Plugins for VCV Rack 0.6.0
 
 (Note the release folder is in the mscHack.zip Windows Only at the moment)
-
+#Download Win64 Bins
+https://www.dropbox.com/s/zuhsr56ds6ijgmr/mscHack%20v0.6.zip?dl=0&fb=1&fb_action_ids=10216632155818809&fb_action_types=groups.post
 ![screenshot](modules.PNG)
 
 # Updates
